@@ -1,0 +1,12 @@
+---
+title: "HelloRStudio"
+author: "rajaga"
+date: "Tuesday 09 June 2015"
+output: html_document
+---
+1. Install R 
+2. Install Rstudio
+3. Open Rstudio and take a screenshot
+4. Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf
+
+**Be careful not to have personally identifiable or important information visible in the screen shot!**
